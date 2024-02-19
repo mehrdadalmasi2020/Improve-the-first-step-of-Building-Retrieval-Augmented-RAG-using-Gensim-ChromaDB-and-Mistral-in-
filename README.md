@@ -1,4 +1,4 @@
-# Improve the first step of building Retrieval Augmented (RAG) using Gensim, ChromaDB, and Mistral in Python.
+# Improve the first step of building Retrieval Augmented Generation (RAG) using Gensim, ChromaDB, and Mistral in Python.
 
 Here, we learn how to change the transformer for ChromaDB to something else, insert data into ChromaDB, and answer queries.
 Vector Databases are essential for many NLP applications, including Retrieval-Augmented Generation, aka RAG.
